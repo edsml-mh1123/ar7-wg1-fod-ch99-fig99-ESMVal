@@ -16,7 +16,6 @@ From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapt
 - [Contents](#contents)
 - [Description](#description)
 - [Installation](#installation)
-  - [Local Installation](#local-installation)
 - [Expected image path](#expected-image-path)
 - [Publication sources](#publication-sources)
 - [How to cite](#how-to-cite) 
@@ -50,9 +49,10 @@ solely from simulations available for the whole time span (1850-2020).
 
 
 ## Installation
-🟡
-### Local Installation
 
+ESMValTool can be installed in multiple ways. Please get more detailed information from the link below:
+
+https://docs.esmvaltool.org/en/latest/quickstart/installation.html
 
 
 ## Expected image path
