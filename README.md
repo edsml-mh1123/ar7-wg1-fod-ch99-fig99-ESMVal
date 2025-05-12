@@ -54,6 +54,16 @@ ESMValTool can be installed in multiple ways. Please get more detailed informati
 
 https://docs.esmvaltool.org/en/latest/quickstart/installation.html
 
+## Usage
+
+(After installation, use the following commands or scripts to run the code. This section provides example usages and any necessary runtime arguments or configurations.)
+
+Recipe used: [recipes/ipccwg1ar6ch3/recipe_ipccwg1ar6ch3_atmosphere.yml](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/recipes/ipccwg1ar6ch3/recipe_ipccwg1ar6ch3_atmosphere.yml)
+
+Diagnostics used: 
+- [diag_scripts/ipcc_ar6/tas_anom.ncl](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/diag_scripts/ipcc_ar6/tas_anom.ncl)
+- [diag_scripts/ipcc_ar6/tsline_blend_collect.ncl](https://github.com/ipcc-wgi/ESMValTool-AR6-OriginalCode-FinalFigures/blob/ar6_chapter_3/esmvaltool/diag_scripts/ipcc_ar6/tsline_blend_collect.ncl)
+
 
 ## Expected image path
 
