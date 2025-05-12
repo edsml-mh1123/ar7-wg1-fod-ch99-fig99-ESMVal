@@ -16,6 +16,7 @@ From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapt
 - [Contents](#contents)
 - [Description](#description)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Expected image path](#expected-image-path)
 - [Publication sources](#publication-sources)
 - [How to cite](#how-to-cite) 
